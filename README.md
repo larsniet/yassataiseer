@@ -16,7 +16,7 @@
 
 
 #### Website And Youtube Channel
-<a href="https://github.com/anuraghazra/yassataiseer.github.io">
+<a href="https:yassataiseer.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yassataiseer&repo=yassataiseer.github.io" />
 </a>
