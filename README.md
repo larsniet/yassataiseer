@@ -14,3 +14,9 @@
 <br>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassataiseer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<a href="https://github.com/yassataiseer/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.yassataiseer.vercel.app/api/top-langs/?username=yassataiseer&layout=compact&theme=material-palenight" />
+</a>
+
