@@ -8,12 +8,10 @@
 <h3> Lets play rock-paper-scissors:</h3>
 <br>
 <a href="https://www.google.com/">
-<img height="180em" src="https://lh3.googleusercontent.com/proxy/L4dvNZ8CuJF-P9fyS_AfY7FUh6ouwoKamURHE4Cv1tQKjkK6S2igpGGN6r2KtT8mrrxsznjLRO1N8qgfJm48Lhs9" />
+<img height="180em" src="https://lh3.googleusercontent.com/proxy/L4dvNZ8CuJF-P9fyS_AfY7FUh6ouwoKamURHE4Cv1tQKjkK6S2igpGGN6r2KtT8mrrxsznjLRO1N8qgfJm48Lhs9" />\
+</a>
  <img height="180em" src=" https://i.pinimg.com/originals/28/8e/fd/288efd3adc06f4c31061390f0c5f90fa.jpg " />
 
- 
-  
-</a>
 <br />
 <br />
 <h3> Here are some stats and to brag about:</h3>
