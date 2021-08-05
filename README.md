@@ -6,7 +6,7 @@
 <br />
 <br />
 #### Lets play rock-paper-scissors:
-<img height="180em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kissclipart.com%2Frocks-clip-art-clipart-rock-clip-art-y3dygz%2F&psig=AOvVaw04Sf9qh-14DVMixTgpnG-b&ust=1628273447540000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJj5zbW9mvICFQAAAAAdAAAAABAI" />
+<img height="180em" src="https://lh3.googleusercontent.com/proxy/L4dvNZ8CuJF-P9fyS_AfY7FUh6ouwoKamURHE4Cv1tQKjkK6S2igpGGN6r2KtT8mrrxsznjLRO1N8qgfJm48Lhs9" />
 
 <br />
 <br />
