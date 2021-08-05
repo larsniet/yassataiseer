@@ -11,7 +11,7 @@
 <img height="180em" src="https://lh3.googleusercontent.com/proxy/L4dvNZ8CuJF-P9fyS_AfY7FUh6ouwoKamURHE4Cv1tQKjkK6S2igpGGN6r2KtT8mrrxsznjLRO1N8qgfJm48Lhs9" />
 </a>
 <a href="http://game.pythonanywhere.com/2">
- <img height="180em" src="https://www.pinclipart.com/picdir/middle/21-218705_paper-4-icon-clip-art-download-paper-icon.png" /></a>
+ <img height="180em" src="https://www.clipartmax.com/png/middle/77-778987_paper-document-clip-art-paper-clipart-black-and-white.png" /></a>
 
 <br />
 <a href="http://game.pythonanywhere.com/3">
