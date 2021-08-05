@@ -12,7 +12,7 @@
 </a>
 <br />
 <br />
-#### Here are some stats and to brag about:
+<h3> Here are some stats and to brag about:</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
