@@ -6,6 +6,9 @@
 <br />
 <br />
  
+<input class="favorite styled"
+       type="button"
+       value="Add to favorites">
 
 #### Here are some stats and to brag about:
 
