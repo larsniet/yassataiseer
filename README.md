@@ -6,7 +6,7 @@
 <br />
 <br />
  
-<input class="favorite styled"
+<input 
        type="button"
        value="Add to favorites">
 
