@@ -5,9 +5,6 @@
 
 <br />
 <br />
- 
-<input type="button">
-
 #### Here are some stats and to brag about:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
