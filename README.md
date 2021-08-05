@@ -7,13 +7,15 @@
 <br />
 <h3> Lets play rock-paper-scissors:</h3>
 <br>
-<a href="https://www.google.com/">
+<a href="http://game.pythonanywhere.com/1">
 <img height="180em" src="https://lh3.googleusercontent.com/proxy/L4dvNZ8CuJF-P9fyS_AfY7FUh6ouwoKamURHE4Cv1tQKjkK6S2igpGGN6r2KtT8mrrxsznjLRO1N8qgfJm48Lhs9" />
 </a>
- <img height="180em" src="https://lh3.googleusercontent.com/proxy/J7hQzNW-VmzAc3F5kZAMI52FzrGyk5GfE4xcgnlSQGgsE8RaIkZ9mpCDLmdTynV36b83BSX0LUgbQ_HPh-xwojko2X9BdQ4zW8C9RQni0DbWgQ" />
+<a href="http://game.pythonanywhere.com/2">
+ <img height="180em" src="https://lh3.googleusercontent.com/proxy/J7hQzNW-VmzAc3F5kZAMI52FzrGyk5GfE4xcgnlSQGgsE8RaIkZ9mpCDLmdTynV36b83BSX0LUgbQ_HPh-xwojko2X9BdQ4zW8C9RQni0DbWgQ" /></a>
 
 <br />
- <img height="180em" src="https://lh3.googleusercontent.com/proxy/pauEJkt65sDy4fO8xcgysux3QmWEHEe7nTYQwNhxdjtXLGCISD__aHs6pfE6KoGQ_bD7na0-uFrYbGQIQQIaszUDaFbA9n0"/>
+<a href="http://game.pythonanywhere.com/3">
+ <img height="180em" src="https://lh3.googleusercontent.com/proxy/pauEJkt65sDy4fO8xcgysux3QmWEHEe7nTYQwNhxdjtXLGCISD__aHs6pfE6KoGQ_bD7na0-uFrYbGQIQQIaszUDaFbA9n0"/></a>
 <br />
 <h3> Here are some stats and to brag about:</h3>
 
