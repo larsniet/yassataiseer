@@ -15,7 +15,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassataiseer&layout=compact" />
 
-<h1>hi</h1>
 #### [Website](https://yassataiseer.github.io/) And [Youtube Channel](https://www.youtube.com/channel/UCgfY9CE1qvviUHBYd5xYofw)
 
 
