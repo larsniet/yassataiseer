@@ -12,8 +12,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yassataiseer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<h1>dsaf</h1>
-<button name="button" onclick="http://www.google.com">Click me</button>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassataiseer&layout=compact" />
 
