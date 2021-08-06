@@ -8,7 +8,7 @@
 <h3> Lets play rock-paper-scissors:</h3>
 <br>
 <a href="http://game.pythonanywhere.com/1">
-<img height="180em" src="https://lh3.googleusercontent.com/proxy/L4dvNZ8CuJF-P9fyS_AfY7FUh6ouwoKamURHE4Cv1tQKjkK6S2igpGGN6r2KtT8mrrxsznjLRO1N8qgfJm48Lhs9" />
+<img height="180em" src="https://library.kissclipart.com/20180829/pq/kissclipart-rocks-clip-art-clipart-rock-clip-art-4207f56170df6b82.jpg" />
 </a>
 <a href="http://game.pythonanywhere.com/2">
  <img height="180em" src="https://cliparting.com/wp-content/uploads/2016/07/Paper-clipart-clipart-cliparts-for-you.jpg" /></a>
