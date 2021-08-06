@@ -15,7 +15,7 @@
 
 <br />
 <a href="http://game.pythonanywhere.com/3">
- <img height="180em" src="https://lh3.googleusercontent.com/proxy/pauEJkt65sDy4fO8xcgysux3QmWEHEe7nTYQwNhxdjtXLGCISD__aHs6pfE6KoGQ_bD7na0-uFrYbGQIQQIaszUDaFbA9n0"/></a>
+ <img height="180em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bcGSg47hsDgQiHDn4pzmpGhsnyx1WHLrfQ&usqp=CAU"/></a>
 <br />
 <h3> Here are some stats and to brag about:</h3>
 
