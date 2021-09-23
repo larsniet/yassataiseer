@@ -1,7 +1,3 @@
-### Hi there, I'm Yassa 👋
-- 🔭 I’m currently working on [DlvrMe-Api](https://github.com/yassataiseer/DlvrMe-API)
-- 🔭 I’m currently working on [DlvrMe-Mobile](https://github.com/yassataiseer/DlvrMe-Mobile)
-- 🔭 I’m currently working on Competitve Programming
 
 <br />
 <br />
