@@ -1,18 +1,3 @@
-
-<br />
-<br />
-<h3> Lets play rock-paper-scissors:</h3>
-<br>
-<a href="http://game.pythonanywhere.com/1">
-<img height="180em" src="https://www.pinclipart.com/picdir/middle/281-2816692_rock-clipart-small-rock-png-download.png" />
-</a>
-<a href="http://game.pythonanywhere.com/2">
- <img height="180em" src="https://cliparting.com/wp-content/uploads/2016/07/Paper-clipart-clipart-cliparts-for-you.jpg" /></a>
-
-<br />
-<a href="http://game.pythonanywhere.com/3">
- <img height="180em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2bcGSg47hsDgQiHDn4pzmpGhsnyx1WHLrfQ&usqp=CAU"/></a>
-<br />
 <h3> Here are some stats and to brag about:</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
